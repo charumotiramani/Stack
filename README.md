@@ -20,7 +20,7 @@ Inside function void display()
 # Functions
 void push(int data)  
 To push the data entered into the stack.  
-If Stack is full the program gives a message "Stack Overflow" Otherwise it adds the element to the top of the stack.
+If stack is full the program gives a message "Stack Overflow" Otherwise it adds the element to the top of the stack.
 
 void pop()  
 If the value of top=-1, that is, if the stack is empty the program gives a message "Stack Underflow".Otherwise it pops the element from the stack.
