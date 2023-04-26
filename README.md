@@ -27,3 +27,5 @@ If the value of top=-1, that is, if the stack is empty the program gives a messa
 
 void display()  
 If the value of top=-1, that is, if the stack is empty the program gives a message "Stack is Empty".Otherwise displays the elemnts present in stack from top to bottom
+
+![image](https://cdn.programiz.com/sites/tutorial2program/files/stack.png)
